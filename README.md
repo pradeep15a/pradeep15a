@@ -1,4 +1,4 @@
-<h1 align='center'> Pradeep :zap::zap:</h1>
+<h1 align='center'> Pradeep aka Stark :zap::zap:</h1>
 
 <h2 align='center'>About Me</h2>
 <p align="center"> 
