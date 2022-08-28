@@ -18,7 +18,7 @@ Just 19 Years.
 </p>
 <p align="center">
 <b>
-Biology mixed upcoming developer
+Idk I call myself a developer!!
 </b>
 </p>
 
