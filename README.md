@@ -11,11 +11,7 @@ Hello Aliens, Me Laziest Person On This Earth
 As In Now Enjoying Student Life.. 
 </b>
 </p>
-<p align="center">
-<b>
-Just 19 Years.
-</b>
-</p>
+
 <p align="center">
 <b>
 Idk I call myself a developer!!
