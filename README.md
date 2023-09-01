@@ -1,4 +1,5 @@
-# 💫 About Me:
+# Pradeep A
+## 💫 About Me: A Passionate Full-Stack Developer
 💬 Ask me about react, react-native, node, express, mongodb, mysql, postgres
 
 
