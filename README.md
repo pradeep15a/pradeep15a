@@ -1,105 +1,21 @@
-<h1 align='center'> Pradeep aka Stark :zap::zap:</h1>
-
-<h2 align='center'>About Me</h2>
-<p align="center"> 
-<b>
-Hello Aliens, Me Laziest Person On This Earth
-</b>
-</p>
-<p align="center">
-<b>
-As In Now Enjoying Student Life.. 
-</b>
-</p>
-<p align="center">
-<b>
-Just 19 Years.
-</b>
-</p>
-<p align="center">
-<b>
-Idk I call myself a developer!!
-</b>
-</p>
+# 💫 About Me:
+💬 Ask me about react, react-native, node, express, mongodb, mysql, postgres
 
 
------------------------
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pradeep.15a) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pradeeee__p) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pradeep15a) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@pradeepashok1122) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Pradeep_15A) 
 
-<h3 align="center"><b>Connect Me On</b></h3>
-<p align="center">
-<a href="https://telegram.dog/Stark_offl/"><img src="https://cdn.dribbble.com/users/2936558/screenshots/7405759/media/a987556d0f7999bb6be647c9424b8597.gif" alt="image-processing20210405-32501-doifx3" border="0" height="50" width="60" align="center" /></a>
-<a href="https://www.linkedin.com/in/pradeep-a-a43187221/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" alt="heimanpictures" height="50" width="50" align="center" /></a>
-<a href="https://instagram.com/93__pradeep/"><img src="https://i.ibb.co/Gt0xhmG/371907300-INSTAGRAM-ICON-TRANSPARENT-1080.gif" alt="371907300-INSTAGRAM-ICON-TRANSPARENT-1080" hight="53" align="center" width="50" border="0"></a>
-<a target='_blank' href='https://freeonlinedice.com/'></a>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pradeep15a&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pradeep15a&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep15a&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pradeep15a&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
------------------------
-<details><summary><b>Known Languages :point_down:</b></summary>
-<br/>
-<p align="center"> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="CSS3" width="40px" height="40" /></a>
-    <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40px" height="40" /></a>
-    <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/java/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="cplusplus" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/react/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="cplusplus" width="40" height="40"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>    
-</p>
-</details>
+---
+[![](https://visitcount.itsvg.in/api?id=pradeep15a&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
--------------
-
-<details><summary><b>Contribution Graph</b></summary>
-<br/>
-<p align="center">
-    <img
-        width="100%"
-        src="https://activity-graph.herokuapp.com/graph?username=pradeep15a&custom_title=Contribution+Graph&theme=xcode"
-    />
-</p>
-</details>
-
-#
-
-![](https://visitor-badge.laobi.icu/badge?page_id=pradeep15a)
-
-#
-<details><summary><b>Trophies</b></summary>
-<br/>
-<p align="center">
-    <img
-        width="100%"
-        src="https://github-profile-trophy.vercel.app/?username=pradeep15a&theme=darkhub"
-    />
-</details>
-
------------------------
-
-
-<p align="center">
-    <img
-        width="100%"
-        src="https://github-readme-stats.vercel.app/api?username=pradeep15a&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
-    />
-    <img
-        width="100%"
-        src="https://github-readme-streak-stats.herokuapp.com?user=pradeep15a&theme=tokyonight"
-    />
-</p>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep15a&layout=compact&theme=tokyonight)](https://github.com/pradeep15a/)
-
--------------------
-
-<p align="center">
-    <b>Copyright © 2021 Pradeep.
-</p>
-
-<p align="center">
-All Rights Reserved </b>
-</p
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
